@@ -1,79 +1,25 @@
 ---
 title: The Shreyaan Vashishtha Podcast
-subtitle: 
+subtitle: <a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
 layout: layouts/base.njk
 ---
 
+## Episodes
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3ZbuLKFgmCKNSzjxOdZ1Ak" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<br>
 
-## Post pages
+<iframe src="https://open.spotify.com/embed-podcast/episode/0NKcztlvvVpsAYNogI4a46" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-The pages found in in the posts
+<br>
 
-<ul class="listing">
-{%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-  </li>
-{%- endfor -%}
-</ul>
+<iframe src="https://open.spotify.com/embed-podcast/episode/6kTWxUbfSdftTkR65zSegh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-## Links from an external data source
+<br>
 
-These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
+<iframe src="https://open.spotify.com/embed-podcast/episode/2a4GzIgs6ZVB4l1RxH86ci" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<ul class="listing">
-{%- for item in hawksworx.entries.slice(0,5) -%}
-  <li>
-    <a href="{{ item.link }}">{{ item.title }}</a>
-  </li>
-{%- endfor -%}
-</ul>
+<br>
 
-
-## Prerequisite
-
-- [Node and NPM](https://nodejs.org/)
-
-## Running locally
-
-```bash
-# install the dependencies
-npm install
-
-# External data sources can be stashed locally
-npm run seed
-
-# It will then be available locally for building with
-npm run start
-```
-
-## Add some Netlify helpers
-Netlify Dev adds the ability to use Netlify redirects, proxies, and serverless functions.
-
-```bash
-# install the Netlify CLI in order to get Netlify Dev
-npm install -g netlify-cli
-
-# run a local server with some added Netlify sugar in front of Eleventy
-netlify dev
-```
-
-A serverless functions pipeline is included via Netlify Dev. By running `netlify dev` you'll be able to execute any of your serverless functions directly like this:
-
-- [/.netlify/functions/hello](/.netlify/functions/hello)
-- [/.netlify/functions/fetch-joke](/.netlify/functions/fetch-joke)
-
-### Redirects and proxies
-
-Netlify's Redirects API can provide friendlier URLs as proxies to these URLs.
-
-- [/api/hello](/api/hello)
-- [/api/fetch-joke](/api/fetch-joke)
-
-
-
-
+<iframe src="https://open.spotify.com/embed-podcast/episode/6eqrrk8PIbQRL315HqIthd" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
