@@ -10,5 +10,10 @@ layout: layouts/base.njk
 
 
 ## Where to listen
-
+<a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
+<a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
+<a href="https://pca.st/7tjawhkn">Listen on Pocket Casts</a> 
+<a href="https://www.breaker.audio/the-shreyaan-vashishtha-podcast">Listen on Breaker</a> 
+<a href="https://radiopublic.com/the-shreyaan-vashishtha-podcast-WYwpnL">Listen on Radio Public</a> 
+<a href="https://castbox.fm/ch/4091053">Listen on CastBox</a> 
 
