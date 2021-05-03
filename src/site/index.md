@@ -15,6 +15,10 @@ layout: layouts/base.njk
 
 <a href="#" rel="Listen on Google Podcasts" width="150" height="38">![Foo](https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg)</a>
 
+<a href="#" rel="Listen on Spotify" width="150" height="38">![Foo](https://upload.wikimedia.org/wikipedia/commons/4/48/Spotify_Badge_%28large%29.png![image](https://user-images.githubusercontent.com/77964841/116851941-fb9bef00-ac25-11eb-9c6a-00f345674f72.png)
+)
+)</a>
+
 <a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
 <br>
 <a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
