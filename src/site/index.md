@@ -11,7 +11,9 @@ layout: layouts/base.njk
 
 ## Where to listen
 
-<a href="https://anchor.fm/shreyaan" rel="Listen on Anchor" width="50">![Foo](https://raw.githubusercontent.com/ShreyaanVashishtha/podcastsv/master/src/site/images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg)</a>
+<a href="#" rel="Listen on Apple Podcasts" width="50">![Foo](https://raw.githubusercontent.com/ShreyaanVashishtha/podcastsv/master/src/site/images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg)</a>
+
+<a href="#" rel="Listen on Google Podcasts" width="150" height="38">![Foo](https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg)</a>
 
 <a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
 <br>
