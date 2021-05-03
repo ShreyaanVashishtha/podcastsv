@@ -11,14 +11,6 @@ layout: layouts/base.njk
 
 ## Where to listen
 
-<a href="#" rel="Listen on Apple Podcasts" width="50">![Foo](https://raw.githubusercontent.com/ShreyaanVashishtha/podcastsv/master/src/site/images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg)</a>
-
-<a href="#" rel="Listen on Google Podcasts" width="150" height="38">![Foo](https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg)</a>
-
-<a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF" rel="Listen on Spotify" width="150" height="38">![Foo](https://upload.wikimedia.org/wikipedia/commons/4/48/Spotify_Badge_%28large%29.png)</a>
-
-<a href="https://pca.st/7tjawhkn" rel="Listen on Pocket Casts" width="150" height="38">![Foo](https://www.pocketcasts.com/assets/images/badges/pocketcasts_large_dark@2x.png)</a>
-
 <a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
 <br>
 <a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
