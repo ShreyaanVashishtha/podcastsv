@@ -11,7 +11,7 @@ layout: layouts/base.njk
 
 ## Where to listen
 
-<a href="https://anchor.fm/shreyaan" rel="Listen on Anchor" width="200" >![Foo](https://theanxioustruth.com/wp-content/uploads/2019/06/Anchor.png)</a>
+<a href="https://anchor.fm/shreyaan" rel="Listen on Anchor" width="50" >![Foo](https://theanxioustruth.com/wp-content/uploads/2019/06/Anchor.png)</a>
 
 <a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
 <br>
