@@ -16,12 +16,8 @@ layout: layouts/base.njk
         <img src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg" width="150" height="38" alt="Listen on Google Podcasts">
       </a>
     </div>
-    <div>
-<a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
-<img src="https://raw.githubusercontent.com/ShreyaanVashishtha/podcastsv/master/src/site/images/anchor.fm.png"  alt="Listen on Anchor">
-      </a>
-      </div>
-
+    
+ <a href="https://anchor.fm/shreyaan">Listen on Anchor</a>
 <br>
 <a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
 <br>
