@@ -11,6 +11,12 @@ layout: layouts/base.njk
 
 ## Where to listen
 
+<div>
+      <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81OTBkNjFiMC9wb2RjYXN0L3Jzcw">
+        <img src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg" width="150" height="38" alt="Listen on Google Podcasts">
+      </a>
+    </div>
+    <br>
 <a href="https://anchor.fm/shreyaan">Listen on Anchor</a> 
 <br>
 <a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
