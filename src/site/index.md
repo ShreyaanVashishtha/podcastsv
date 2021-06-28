@@ -1,18 +1,18 @@
 ---
-title: The Shreyaan Vashishtha Podcast
-subtitle: <a href="https://open.spotify.com/show/0caeIQnLciL2sOjyAUoAVF">Listen on Spotify</a> 
+title: The Gigaform Podcast
+subtitle: <a href="https://open.spotify.com/show/5lPcxpx0BCCQtiVDL3jTe5">Listen on Spotify</a> 
 layout: layouts/base.njk
 ---
 
 ## Episodes
 <br>
-<iframe src="https://open.spotify.com/embed-podcast/show/0caeIQnLciL2sOjyAUoAVF" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/1CdrVewzNyCDra0GjEVn85" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ## Where to listen
 
 <div>
-      <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81OTBkNjFiMC9wb2RjYXN0L3Jzcw">
+      <a href="https://podcasts.apple.com/us/podcast/the-gigaform-podcast/id1569011605?uo=4">
         <img src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg" width="150" height="38" alt="Listen on Google Podcasts">
       </a>
     </div>
