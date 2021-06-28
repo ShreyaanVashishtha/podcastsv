@@ -13,16 +13,16 @@
   to = "/.netlify/functions/:splat"
   status = 200
   
-  from = "/ep2_sp"
-  to = "https://open.spotify.com/episode/1CdrVewzNyCDra0GjEVn85?si=fn1kaB7mRVO9sTPydvBZHg&dl_branch=1"
-  status = 301
+from = "/ep2_sp"
+to = "https://open.spotify.com/episode/1CdrVewzNyCDra0GjEVn85?si=fn1kaB7mRVO9sTPydvBZHg&dl_branch=1"
+status = 301
   
-  from = "/ep2_ap"
-  to = "https://podcasts.apple.com/hk/podcast/the-gigaform-podcast/id1569011605?i=1000527092751"
-  status = 301
+from = "/ep2_ap"
+to = "https://podcasts.apple.com/hk/podcast/the-gigaform-podcast/id1569011605?i=1000527092751"
+status = 301
 
-  from = "/ep2_gp"
-  to = "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDkxNjYwNC9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDU0NzU1ODM?sa=X&ved=0CAUQkfYCahcKEwigj5n6wLrxAhUAAAAAHQAAAAAQAQ"
-  status = 301
+from = "/ep2_gp"
+to = "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDkxNjYwNC9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDU0NzU1ODM?sa=X&ved=0CAUQkfYCahcKEwigj5n6wLrxAhUAAAAAHQAAAAAQAQ"
+status = 301
 
 
