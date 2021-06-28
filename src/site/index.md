@@ -30,5 +30,5 @@ layout: layouts/base.njk
 <br>
 <a href="https://www.jiosaavn.com/shows/The-Gigaform-Podcast/1/ncTfmXl5wVI_">Listen on JioSaavan</a> 
 <br>
-_More platforms coming soon..._
+*More platforms coming soon...*
 </div>
