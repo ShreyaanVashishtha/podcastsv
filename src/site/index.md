@@ -4,7 +4,7 @@ subtitle: <a href="https://open.spotify.com/show/5lPcxpx0BCCQtiVDL3jTe5">Listen 
 layout: layouts/base.njk
 ---
 
-## Episodes
+## Latest Episode
 <br>
 <iframe src="https://open.spotify.com/embed/episode/1CdrVewzNyCDra0GjEVn85" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
